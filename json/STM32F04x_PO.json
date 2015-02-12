@@ -1,0 +1,1826 @@
+[
+   {
+      "name" : "PE2",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "1",
+         "LQFP100" : "1",
+         "UFBGA176" : "A2",
+         "LQFP144" : "1"
+      }
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "2",
+         "LQFP144" : "2",
+         "UFBGA176" : "A1",
+         "LQFP100" : "2"
+      },
+      "name" : "PE3"
+   },
+   {
+      "pins" : {
+         "LQFP144" : "3",
+         "UFBGA176" : "B1",
+         "LQFP100" : "3",
+         "LQFP176" : "3"
+      },
+      "af" : [],
+      "name" : "PE4"
+   },
+   {
+      "name" : "PE5",
+      "pins" : {
+         "LQFP100" : "4",
+         "LQFP144" : "4",
+         "UFBGA176" : "B2",
+         "LQFP176" : "4"
+      },
+      "af" : []
+   },
+   {
+      "name" : "PE6",
+      "pins" : {
+         "LQFP176" : "5",
+         "UFBGA176" : "B3",
+         "LQFP144" : "5",
+         "LQFP100" : "5"
+      },
+      "af" : []
+   },
+   {
+      "name" : "VBAT",
+      "pins" : {
+         "LQFP176" : "6",
+         "WLCP90" : "A10",
+         "LQFP100" : "6",
+         "LQFP64" : "1",
+         "LQFP144" : "6",
+         "UFBGA176" : "C1"
+      },
+      "af" : []
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "D2",
+         "LQFP176" : "7"
+      },
+      "af" : [],
+      "name" : "PI8"
+   },
+   {
+      "name" : "PC13",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "8",
+         "WLCP90" : "A9",
+         "LQFP100" : "7",
+         "LQFP64" : "2",
+         "LQFP144" : "7",
+         "UFBGA176" : "D1"
+      }
+   },
+   {
+      "af" : ["OSC32_IN"],
+      "pins" : {
+         "LQFP176" : "9",
+         "UFBGA176" : "E1",
+         "LQFP144" : "8",
+         "LQFP64" : "3",
+         "LQFP100" : "8",
+         "WLCP90" : "B10"
+      },
+      "name" : "PC14"
+   },
+   {
+      "name" : "PC15",
+      "af" : ["OSC32_OUT"],
+      "pins" : {
+         "LQFP144" : "9",
+         "UFBGA176" : "F1",
+         "WLCP90" : "B9",
+         "LQFP100" : "9",
+         "LQFP64" : "4",
+         "LQFP176" : "10"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "11",
+         "UFBGA176" : "D3"
+      },
+      "af" : ["CAN1_RX"],
+      "name" : "PI9"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "E3",
+         "LQFP176" : "12"
+      },
+      "af" : [],
+      "name" : "PI10"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "E4",
+         "LQFP176" : "13"
+      },
+      "af" : [],
+      "name" : "PI11"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "F2",
+         "LQFP176" : "14"
+      },
+      "af" : [],
+      "name" : "VSS"
+   },
+   {
+      "name" : "VDD",
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "F3",
+         "LQFP176" : "15"
+      }
+   },
+   {
+      "name" : "PF0",
+      "pins" : {
+         "UFBGA176" : "E2",
+         "LQFP144" : "10",
+         "LQFP176" : "16"
+      },
+      "af" : ["I2C2_SDA"]
+   },
+   {
+      "name" : "PF1",
+      "pins" : {
+         "LQFP176" : "17",
+         "UFBGA176" : "H3",
+         "LQFP144" : "11"
+      },
+      "af" : ["I2C2_SCL"]
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "12",
+         "UFBGA176" : "H2",
+         "LQFP176" : "18"
+      },
+      "name" : "PF2"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "19",
+         "LQFP144" : "13",
+         "UFBGA176" : "J2"
+      },
+      "af" : ["ADC3_IN9"],
+      "name" : "PF3"
+   },
+   {
+      "af" : ["ADC3_IN14"],
+      "pins" : {
+         "LQFP144" : "14",
+         "UFBGA176" : "J3",
+         "LQFP176" : "20"
+      },
+      "name" : "PF4"
+   },
+   {
+      "name" : "PF5",
+      "af" : ["ADC3_IN15"],
+      "pins" : {
+         "UFBGA176" : "K3",
+         "LQFP144" : "15",
+         "LQFP176" : "21"
+      }
+   },
+   {
+      "name" : "VSS",
+      "pins" : {
+         "LQFP176" : "22",
+         "LQFP144" : "16",
+         "UFBGA176" : "G2",
+         "WLCP90" : "C9",
+         "LQFP100" : "10"
+      },
+      "af" : []
+   },
+   {
+      "pins" : {
+         "LQFP144" : "17",
+         "UFBGA176" : "G3",
+         "WLCP90" : "B8",
+         "LQFP100" : "11",
+         "LQFP176" : "23"
+      },
+      "af" : [],
+      "name" : "VDD"
+   },
+   {
+      "name" : "PF6",
+      "af" : ["ADC3_IN4","TIM10_CH1"],
+      "pins" : {
+         "LQFP176" : "24",
+         "UFBGA176" : "K2",
+         "LQFP144" : "18"
+      }
+   },
+   {
+      "af" : ["ADC3_IN5","TIM11_CH1"],
+      "pins" : {
+         "LQFP176" : "25",
+         "UFBGA176" : "K1",
+         "LQFP144" : "19"
+      },
+      "name" : "PF7"
+   },
+   {
+      "name" : "PF8",
+      "af" : ["ADC3_IN6","TIM13_CH1"],
+      "pins" : {
+         "LQFP176" : "26",
+         "UFBGA176" : "L3",
+         "LQFP144" : "20"
+      }
+   },
+   {
+      "name" : "PF9",
+      "pins" : {
+         "LQFP144" : "21",
+         "UFBGA176" : "L2",
+         "LQFP176" : "27"
+      },
+      "af" : ["ADC3_IN7","TIM14_CH1"]
+   },
+   {
+      "name" : "PF10",
+      "pins" : {
+         "LQFP176" : "28",
+         "LQFP144" : "22",
+         "UFBGA176" : "L1"
+      },
+      "af" : ["ADC3_IN8"]
+   },
+   {
+      "af" : ["OSC_IN"],
+      "pins" : {
+         "LQFP176" : "29",
+         "UFBGA176" : "G1",
+         "LQFP144" : "23",
+         "LQFP100" : "12",
+         "LQFP64" : "5",
+         "WLCP90" : "F10"
+      },
+      "name" : "PH0"
+   },
+   {
+      "name" : "PH1",
+      "pins" : {
+         "UFBGA176" : "H1",
+         "LQFP144" : "24",
+         "LQFP100" : "13",
+         "LQFP64" : "6",
+         "WLCP90" : "F9",
+         "LQFP176" : "30"
+      },
+      "af" : ["OSC_OUT"]
+   },
+   {
+      "name" : "NRST",
+      "pins" : {
+         "WLCP90" : "G10",
+         "LQFP100" : "14",
+         "LQFP64" : "7",
+         "LQFP144" : "25",
+         "UFBGA176" : "J1",
+         "LQFP176" : "31"
+      },
+      "af" : []
+   },
+   {
+      "pins" : {
+         "LQFP176" : "32",
+         "WLCP90" : "E10",
+         "LQFP100" : "15",
+         "LQFP64" : "8",
+         "LQFP144" : "26",
+         "UFBGA176" : "M2"
+      },
+      "af" : ["ADC123_IN10"],
+      "name" : "PC0"
+   },
+   {
+      "name" : "PC1",
+      "pins" : {
+         "LQFP176" : "33",
+         "LQFP144" : "27",
+         "UFBGA176" : "M3",
+         "LQFP64" : "9",
+         "LQFP100" : "16"
+      },
+      "af" : ["ADC123_IN11"]
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "M4",
+         "LQFP144" : "28",
+         "LQFP100" : "17",
+         "LQFP64" : "10",
+         "WLCP90" : "D10",
+         "LQFP176" : "34"
+      },
+      "af" : ["ADC123_IN12","SPI2_MISO","I2S2ext_SD"],
+      "name" : "PC2"
+   },
+   {
+      "name" : "PC3",
+      "af" : ["ADC123_IN13","SPI2_MOSI","I2S2_SD"],
+      "pins" : {
+         "LQFP176" : "35",
+         "LQFP100" : "18",
+         "LQFP64" : "11",
+         "WLCP90" : "E9",
+         "UFBGA176" : "M5",
+         "LQFP144" : "29"
+      }
+   },
+   {
+      "name" : "VDD",
+      "pins" : {
+         "LQFP100" : "19",
+         "UFBGA176" : "G3",
+         "LQFP144" : "30",
+         "LQFP176" : "36"
+      },
+      "af" : []
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "37",
+         "LQFP100" : "20",
+         "LQFP64" : "12",
+         "WLCP90" : "H10",
+         "UFBGA176" : "M1",
+         "LQFP144" : "31"
+      },
+      "name" : "VSSA"
+   },
+   {
+      "name" : "VREF-",
+      "pins" : {
+         "UFBGA176" : "N1"
+      },
+      "af" : []
+   },
+   {
+      "name" : "VREF+",
+      "pins" : {
+         "LQFP100" : "21",
+         "LQFP144" : "32",
+         "UFBGA176" : "P1",
+         "LQFP176" : "38"
+      },
+      "af" : []
+   },
+   {
+      "name" : "VDDA",
+      "af" : [],
+      "pins" : {
+         "WLCP90" : "G9",
+         "LQFP64" : "13",
+         "LQFP100" : "22",
+         "LQFP144" : "33",
+         "UFBGA176" : "R1",
+         "LQFP176" : "39"
+      }
+   },
+   {
+      "af" : ["ADC123_IN0","WKUP","USART_CTS","UART4_TX","TIM2_CH1_ETR","TIM5_CH1","TIM8_ETR"],
+      "pins" : {
+         "LQFP176" : "40",
+         "WLCP90" : "C10",
+         "LQFP64" : "14",
+         "LQFP100" : "23",
+         "LQFP144" : "34",
+         "UFBGA176" : "N3"
+      },
+      "name" : "PA0"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "41",
+         "WLCP90" : "F8",
+         "LQFP100" : "24",
+         "LQFP64" : "15",
+         "LQFP144" : "35",
+         "UFBGA176" : "N2"
+      },
+      "af" : ["ADC123_IN1","USART2_RTS","UART4_RX","TIM5_CH2","TIM2_CH2"],
+      "name" : "PA1"
+   },
+   {
+      "af" : ["ADC123_IN2","USART2_TX","TIM5_CH3","TIM9_CH1","TIM2_CH3"],
+      "pins" : {
+         "LQFP144" : "36",
+         "UFBGA176" : "P2",
+         "WLCP90" : "J10",
+         "LQFP100" : "25",
+         "LQFP64" : "16",
+         "LQFP176" : "42"
+      },
+      "name" : "PA2"
+   },
+   {
+      "name" : "PH2",
+      "pins" : {
+         "UFBGA176" : "F4",
+         "LQFP176" : "43"
+      },
+      "af" : []
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "G4",
+         "LQFP176" : "44"
+      },
+      "name" : "PH3"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "45",
+         "UFBGA176" : "H4"
+      },
+      "af" : ["I2C2_SCL"],
+      "name" : "PH4"
+   },
+   {
+      "af" : ["I2C2_SDA"],
+      "pins" : {
+         "UFBGA176" : "J4",
+         "LQFP176" : "46"
+      },
+      "name" : "PH5"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "47",
+         "WLCP90" : "H9",
+         "LQFP100" : "26",
+         "LQFP64" : "17",
+         "LQFP144" : "37",
+         "UFBGA176" : "R2"
+      },
+      "af" : ["ADC123_IN3","USART2_RX","TIM5_CH4","TIM9_CH2","TIM2_CH4"],
+      "name" : "PA3"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "38",
+         "LQFP100" : "27",
+         "LQFP64" : "18",
+         "WLCP90" : "E5"
+      },
+      "name" : "VSS"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "48",
+         "UFBGA176" : "L4",
+         "WLCP90" : "D6"
+      },
+      "name" : "BYPASS_REG"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "K4",
+         "LQFP144" : "39",
+         "LQFP100" : "28",
+         "LQFP64" : "19",
+         "WLCP90" : "E4",
+         "LQFP176" : "49"
+      },
+      "name" : "VDD"
+   },
+   {
+      "name" : "PA4",
+      "pins" : {
+         "LQFP64" : "20",
+         "LQFP100" : "29",
+         "WLCP90" : "J9",
+         "UFBGA176" : "N4",
+         "LQFP144" : "40",
+         "LQFP176" : "50"
+      },
+      "af" : ["ADC12_IN4","DAC_OUT1","SPI1_NSS","SPI2_NSS","USART2_CK","I2S3_WS"]
+   },
+   {
+      "af" : ["ADC12_IN5","DAC_OUT2","SPI2_SCK","TIM2_CH1_ETR","TIM8_CH1N"],
+      "pins" : {
+         "LQFP176" : "51",
+         "WLCP90" : "G8",
+         "LQFP64" : "21",
+         "LQFP100" : "30",
+         "LQFP144" : "41",
+         "UFBGA176" : "P4"
+      },
+      "name" : "PA5"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "52",
+         "LQFP64" : "22",
+         "LQFP100" : "31",
+         "WLCP90" : "H8",
+         "UFBGA176" : "P3",
+         "LQFP144" : "42"
+      },
+      "af" : ["ADC12_IN6","SPI1_MISO","TIM8_BKIN","TIM13_CH1","TIM3_CH1","TIM1_BKIN"],
+      "name" : "PA6"
+   },
+   {
+      "af" : ["ADC12_IN7","SPI1_MOSI","TIM8_CH1N","TIM14_CH1","TIM3_CH2","TIM1_CH1N"],
+      "pins" : {
+         "LQFP176" : "53",
+         "UFBGA176" : "R3",
+         "LQFP144" : "43",
+         "LQFP100" : "32",
+         "LQFP64" : "23",
+         "WLCP90" : "J8"
+      },
+      "name" : "PA7"
+   },
+   {
+      "name" : "PC4",
+      "af" : ["ADC12_IN14"],
+      "pins" : {
+         "LQFP64" : "24",
+         "LQFP100" : "33",
+         "UFBGA176" : "N5",
+         "LQFP144" : "44",
+         "LQFP176" : "54"
+      }
+   },
+   {
+      "af" : ["ADC12_IN15"],
+      "pins" : {
+         "LQFP176" : "55",
+         "LQFP100" : "34",
+         "LQFP64" : "25",
+         "LQFP144" : "45",
+         "UFBGA176" : "P5"
+      },
+      "name" : "PC5"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "56",
+         "UFBGA176" : "R5",
+         "LQFP144" : "46",
+         "LQFP64" : "26",
+         "LQFP100" : "35",
+         "WLCP90" : "G7"
+      },
+      "af" : ["ADC12_IN8","TIM3_CH3","TIM8_CH2N","TIM1_CH2N"],
+      "name" : "PB0"
+   },
+   {
+      "name" : "PB1",
+      "pins" : {
+         "LQFP64" : "27",
+         "LQFP100" : "36",
+         "WLCP90" : "H7",
+         "UFBGA176" : "R4",
+         "LQFP144" : "47",
+         "LQFP176" : "57"
+      },
+      "af" : ["ADC12_IN9","TIM3_CH4","TIM8_CH3N","TIM1_CH3N"]
+   },
+   {
+      "name" : "PB2",
+      "pins" : {
+         "LQFP176" : "58",
+         "LQFP100" : "37",
+         "LQFP64" : "28",
+         "WLCP90" : "J7",
+         "UFBGA176" : "M6",
+         "LQFP144" : "48"
+      },
+      "af" : ["BOOT1"]
+   },
+   {
+      "pins" : {
+         "LQFP176" : "59",
+         "UFBGA176" : "R6",
+         "LQFP144" : "49"
+      },
+      "af" : [],
+      "name" : "PF11"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "60",
+         "LQFP144" : "50",
+         "UFBGA176" : "P6"
+      },
+      "name" : "PF12"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "61",
+         "LQFP144" : "51",
+         "UFBGA176" : "M8"
+      },
+      "af" : [],
+      "name" : "VSS"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "N8",
+         "LQFP144" : "52",
+         "LQFP176" : "62"
+      },
+      "name" : "VDD"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "63",
+         "LQFP144" : "53",
+         "UFBGA176" : "N6"
+      },
+      "name" : "PF13"
+   },
+   {
+      "pins" : {
+         "LQFP144" : "54",
+         "UFBGA176" : "R7",
+         "LQFP176" : "64"
+      },
+      "af" : [],
+      "name" : "PF14"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "P7",
+         "LQFP144" : "55",
+         "LQFP176" : "65"
+      },
+      "af" : [],
+      "name" : "PF15"
+   },
+   {
+      "name" : "PG0",
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "56",
+         "UFBGA176" : "N7",
+         "LQFP176" : "66"
+      }
+   },
+   {
+      "name" : "PG1",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "67",
+         "LQFP144" : "57",
+         "UFBGA176" : "M7"
+      }
+   },
+   {
+      "name" : "PE7",
+      "af" : ["TIM1_ETR"],
+      "pins" : {
+         "LQFP100" : "38",
+         "WLCP90" : "G6",
+         "UFBGA176" : "R8",
+         "LQFP144" : "58",
+         "LQFP176" : "68"
+      }
+   },
+   {
+      "name" : "PE8",
+      "pins" : {
+         "LQFP144" : "59",
+         "UFBGA176" : "P8",
+         "WLCP90" : "H6",
+         "LQFP100" : "39",
+         "LQFP176" : "69"
+      },
+      "af" : ["TIM1_CH1N"]
+   },
+   {
+      "pins" : {
+         "LQFP176" : "70",
+         "UFBGA176" : "P9",
+         "LQFP144" : "60",
+         "LQFP100" : "40",
+         "WLCP90" : "J6"
+      },
+      "af" : ["TIM1_CH1"],
+      "name" : "PE9"
+   },
+   {
+      "name" : "VSS",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "71",
+         "LQFP144" : "61",
+         "UFBGA176" : "M9"
+      }
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "62",
+         "UFBGA176" : "N9",
+         "LQFP176" : "72"
+      },
+      "name" : "VDD"
+   },
+   {
+      "name" : "PE10",
+      "af" : ["TIM1_CH2N"],
+      "pins" : {
+         "LQFP176" : "73",
+         "LQFP144" : "63",
+         "UFBGA176" : "R9",
+         "WLCP90" : "F6",
+         "LQFP100" : "41"
+      }
+   },
+   {
+      "name" : "PE11",
+      "pins" : {
+         "UFBGA176" : "P10",
+         "LQFP144" : "64",
+         "LQFP100" : "42",
+         "WLCP90" : "J5",
+         "LQFP176" : "74"
+      },
+      "af" : ["TIM1_CH2"]
+   },
+   {
+      "name" : "PE12",
+      "af" : ["TIM1_CH3N"],
+      "pins" : {
+         "LQFP176" : "75",
+         "LQFP100" : "43",
+         "WLCP90" : "H5",
+         "UFBGA176" : "R10",
+         "LQFP144" : "65"
+      }
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "N11",
+         "LQFP144" : "66",
+         "LQFP100" : "44",
+         "WLCP90" : "G5",
+         "LQFP176" : "76"
+      },
+      "af" : ["TIM1_CH3"],
+      "name" : "PE13"
+   },
+   {
+      "af" : ["TIM1_CH4"],
+      "pins" : {
+         "LQFP144" : "67",
+         "UFBGA176" : "P11",
+         "WLCP90" : "F5",
+         "LQFP100" : "45",
+         "LQFP176" : "77"
+      },
+      "name" : "PE14"
+   },
+   {
+      "pins" : {
+         "LQFP144" : "68",
+         "UFBGA176" : "R11",
+         "WLCP90" : "G4",
+         "LQFP100" : "46",
+         "LQFP176" : "78"
+      },
+      "af" : ["TIM1_BKIN"],
+      "name" : "PE15"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "R12",
+         "LQFP144" : "69",
+         "LQFP64" : "29",
+         "LQFP100" : "47",
+         "WLCP90" : "H4",
+         "LQFP176" : "79"
+      },
+      "af" : ["SPI2_SCK","I2S2_CK","I2C2_SCL","USART3_TX","TIM2_CH3"],
+      "name" : "PB10"
+   },
+   {
+      "name" : "PB11",
+      "pins" : {
+         "LQFP176" : "80",
+         "UFBGA176" : "R13",
+         "LQFP144" : "70",
+         "LQFP100" : "48",
+         "LQFP64" : "30",
+         "WLCP90" : "J4"
+      },
+      "af" : ["I2C2_SDA","USART3_RX","TIM2_CH4"]
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "71",
+         "UFBGA176" : "M10",
+         "WLCP90" : "F4",
+         "LQFP100" : "49",
+         "LQFP64" : "31",
+         "LQFP176" : "81"
+      },
+      "name" : "VCAP_1"
+   },
+   {
+      "name" : "VDD",
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "N10",
+         "LQFP144" : "72",
+         "LQFP64" : "32",
+         "LQFP100" : "50",
+         "LQFP176" : "82"
+      }
+   },
+   {
+      "name" : "PH6",
+      "af" : ["I2C2_SMBA","TIM12_CH1"],
+      "pins" : {
+         "UFBGA176" : "M11",
+         "LQFP176" : "83"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "84",
+         "UFBGA176" : "N12"
+      },
+      "af" : ["I2C3_SCL"],
+      "name" : "PH7"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "85",
+         "UFBGA176" : "M12"
+      },
+      "af" : ["I2C3_SDA"],
+      "name" : "PH8"
+   },
+   {
+      "name" : "PH9",
+      "af" : ["I2C3_SMBA","TIM12_CH2"],
+      "pins" : {
+         "UFBGA176" : "M13",
+         "LQFP176" : "86"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "87",
+         "UFBGA176" : "L13"
+      },
+      "af" : ["TIM5_CH1"],
+      "name" : "PH10"
+   },
+   {
+      "name" : "PH11",
+      "af" : ["TIM5_CH2"],
+      "pins" : {
+         "LQFP176" : "88",
+         "UFBGA176" : "L12"
+      }
+   },
+   {
+      "af" : ["TIM5_CH3"],
+      "pins" : {
+         "LQFP176" : "89",
+         "UFBGA176" : "K12"
+      },
+      "name" : "PH12"
+   },
+   {
+      "name" : "VSS",
+      "pins" : {
+         "UFBGA176" : "H12",
+         "LQFP176" : "90"
+      },
+      "af" : []
+   },
+   {
+      "name" : "VDD",
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "J12",
+         "LQFP176" : "91"
+      }
+   },
+   {
+      "name" : "PB12",
+      "pins" : {
+         "LQFP176" : "92",
+         "LQFP144" : "73",
+         "UFBGA176" : "P12",
+         "WLCP90" : "J3",
+         "LQFP100" : "51",
+         "LQFP64" : "33"
+      },
+      "af" : ["SPI2_NSS","I2S2_WS","I2C2_SMBA","USART3_CK","TIM1_BKIN","CAN2_RX"]
+   },
+   {
+      "pins" : {
+         "LQFP100" : "52",
+         "LQFP64" : "34",
+         "WLCP90" : "J1",
+         "UFBGA176" : "P13",
+         "LQFP144" : "74",
+         "LQFP176" : "93"
+      },
+      "af" : ["SPO2_SCK","I2S2_CK","USART3_CTS","TIM1_CH1N","CAN2_TX"],
+      "name" : "PB13"
+   },
+   {
+      "name" : "PB14",
+      "af" : ["SPI2_MISO","TIM1_CH2N","TIM12_CH1","USART3_RTS","TIM8_CH2N","I2S2ext_SD"],
+      "pins" : {
+         "LQFP144" : "75",
+         "UFBGA176" : "R14",
+         "WLCP90" : "J2",
+         "LQFP100" : "53",
+         "LQFP64" : "35",
+         "LQFP176" : "94"
+      }
+   },
+   {
+      "name" : "PB15",
+      "af" : ["SPI2_MOSI","I2S2_SD","TIM1_CH3N","TIM8_CH3N","TIM12_CH2","RTC_REFIN"],
+      "pins" : {
+         "LQFP144" : "76",
+         "UFBGA176" : "R15",
+         "WLCP90" : "H1",
+         "LQFP64" : "36",
+         "LQFP100" : "54",
+         "LQFP176" : "95"
+      }
+   },
+   {
+      "name" : "PD8",
+      "af" : ["USART3_TX"],
+      "pins" : {
+         "LQFP176" : "96",
+         "WLCP90" : "H2",
+         "LQFP100" : "55",
+         "LQFP144" : "77",
+         "UFBGA176" : "P15"
+      }
+   },
+   {
+      "name" : "PD9",
+      "pins" : {
+         "LQFP176" : "97",
+         "LQFP100" : "56",
+         "WLCP90" : "H3",
+         "UFBGA176" : "P14",
+         "LQFP144" : "78"
+      },
+      "af" : ["USART3_RX"]
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "N15",
+         "LQFP144" : "79",
+         "LQFP100" : "57",
+         "WLCP90" : "G3",
+         "LQFP176" : "98"
+      },
+      "af" : ["USART3_CK"],
+      "name" : "PD10"
+   },
+   {
+      "name" : "PD11",
+      "pins" : {
+         "LQFP176" : "99",
+         "WLCP90" : "G1",
+         "LQFP100" : "58",
+         "LQFP144" : "80",
+         "UFBGA176" : "N14"
+      },
+      "af" : ["USART3_CTS"]
+   },
+   {
+      "name" : "PD12",
+      "af" : ["TIM4_CH1","USART3_RTS"],
+      "pins" : {
+         "UFBGA176" : "N13",
+         "LQFP144" : "81",
+         "LQFP100" : "59",
+         "WLCP90" : "G2",
+         "LQFP176" : "100"
+      }
+   },
+   {
+      "name" : "PD13",
+      "pins" : {
+         "LQFP100" : "60",
+         "LQFP144" : "82",
+         "UFBGA176" : "M15",
+         "LQFP176" : "101"
+      },
+      "af" : ["TIM4_CH2"]
+   },
+   {
+      "name" : "VSS",
+      "pins" : {
+         "LQFP176" : "102",
+         "LQFP144" : "83"
+      },
+      "af" : []
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "103",
+         "UFBGA176" : "J13",
+         "LQFP144" : "84"
+      },
+      "name" : "VDD"
+   },
+   {
+      "name" : "PD14",
+      "af" : ["TIM4_CH3"],
+      "pins" : {
+         "LQFP176" : "104",
+         "WLCP90" : "F2",
+         "LQFP100" : "61",
+         "LQFP144" : "85",
+         "UFBGA176" : "M14"
+      }
+   },
+   {
+      "pins" : {
+         "WLCP90" : "F1",
+         "LQFP100" : "62",
+         "LQFP144" : "86",
+         "UFBGA176" : "L14",
+         "LQFP176" : "105"
+      },
+      "af" : ["TIM4_CH4"],
+      "name" : "PD15"
+   },
+   {
+      "name" : "PG2",
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "L15",
+         "LQFP144" : "87",
+         "LQFP176" : "106"
+      }
+   },
+   {
+      "name" : "PG3",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "107",
+         "LQFP144" : "88",
+         "UFBGA176" : "K15"
+      }
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "89",
+         "UFBGA176" : "K14",
+         "LQFP176" : "108"
+      },
+      "name" : "PG4"
+   },
+   {
+      "name" : "PG5",
+      "pins" : {
+         "UFBGA176" : "K13",
+         "LQFP144" : "90",
+         "LQFP176" : "109"
+      },
+      "af" : []
+   },
+   {
+      "pins" : {
+         "LQFP144" : "91",
+         "UFBGA176" : "J15",
+         "LQFP176" : "110"
+      },
+      "af" : [],
+      "name" : "PG6"
+   },
+   {
+      "name" : "PG7",
+      "pins" : {
+         "LQFP144" : "92",
+         "UFBGA176" : "J14",
+         "LQFP176" : "111"
+      },
+      "af" : ["USART6_CK"]
+   },
+   {
+      "pins" : {
+         "LQFP144" : "93",
+         "UFBGA176" : "H14",
+         "LQFP176" : "112"
+      },
+      "af" : ["USART6_RTS"],
+      "name" : "PG8"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "G12",
+         "LQFP144" : "94",
+         "LQFP176" : "113"
+      },
+      "name" : "VSS"
+   },
+   {
+      "name" : "VDD",
+      "pins" : {
+         "UFBGA176" : "H13",
+         "LQFP144" : "95",
+         "LQFP176" : "114"
+      },
+      "af" : []
+   },
+   {
+      "name" : "PC6",
+      "af" : ["I2S2_MCK","TIM8_CH1","SDIO_D6","USART6_TX","TIM3_CH1"],
+      "pins" : {
+         "LQFP64" : "37",
+         "LQFP100" : "63",
+         "WLCP90" : "F3",
+         "UFBGA176" : "H15",
+         "LQFP144" : "96",
+         "LQFP176" : "115"
+      }
+   },
+   {
+      "af" : ["I2S3_MCK","TIM8_CH2","SDIO_D7","USART6_RX","TIM3_CH2"],
+      "pins" : {
+         "LQFP176" : "116",
+         "UFBGA176" : "G15",
+         "LQFP144" : "97",
+         "LQFP64" : "38",
+         "LQFP100" : "64",
+         "WLCP90" : "E1"
+      },
+      "name" : "PC7"
+   },
+   {
+      "name" : "PC8",
+      "pins" : {
+         "LQFP176" : "117",
+         "UFBGA176" : "G14",
+         "LQFP144" : "98",
+         "LQFP100" : "65",
+         "LQFP64" : "39",
+         "WLCP90" : "E2"
+      },
+      "af" : ["TIM8_CH3","SDIO_D0","TIM3_CH3","USART6_CK"]
+   },
+   {
+      "name" : "PC9",
+      "af" : ["I2S_CKIN","MCO2","TIM8_CH4","SDIO_D0","I2c3_SDA","TIM3_CH4"],
+      "pins" : {
+         "LQFP176" : "118",
+         "LQFP64" : "40",
+         "LQFP100" : "66",
+         "WLCP90" : "E3",
+         "UFBGA176" : "F14",
+         "LQFP144" : "99"
+      }
+   },
+   {
+      "name" : "PA8",
+      "af" : ["MCO1","USART1_CK","TIM1_CH1","I2C3_SCL"],
+      "pins" : {
+         "LQFP144" : "100",
+         "UFBGA176" : "F15",
+         "WLCP90" : "D1",
+         "LQFP100" : "67",
+         "LQFP64" : "41",
+         "LQFP176" : "119"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "120",
+         "LQFP64" : "42",
+         "LQFP100" : "68",
+         "WLCP90" : "D2",
+         "UFBGA176" : "E15",
+         "LQFP144" : "101"
+      },
+      "af" : ["USART1_TX","TIM1_CH2","ISC3_SMBA"],
+      "name" : "PA9"
+   },
+   {
+      "af" : ["USART1_RX","TIM1_CH3"],
+      "pins" : {
+         "UFBGA176" : "D15",
+         "LQFP144" : "102",
+         "LQFP100" : "69",
+         "LQFP64" : "43",
+         "WLCP90" : "D3",
+         "LQFP176" : "121"
+      },
+      "name" : "PA10"
+   },
+   {
+      "pins" : {
+         "WLCP90" : "C1",
+         "LQFP100" : "70",
+         "LQFP64" : "44",
+         "LQFP144" : "103",
+         "UFBGA176" : "C15",
+         "LQFP176" : "122"
+      },
+      "af" : ["USART1_CTS","CAN1_RX","TIM1_CH4"],
+      "name" : "PA11"
+   },
+   {
+      "pins" : {
+         "LQFP144" : "104",
+         "UFBGA176" : "B15",
+         "WLCP90" : "C2",
+         "LQFP100" : "71",
+         "LQFP64" : "45",
+         "LQFP176" : "123"
+      },
+      "af" : ["USART1_RTS","CAN1_TX","TIM1_ETR"],
+      "name" : "PA12"
+   },
+   {
+      "name" : "PA13",
+      "pins" : {
+         "LQFP176" : "124",
+         "WLCP90" : "D4",
+         "LQFP100" : "72",
+         "LQFP64" : "46",
+         "LQFP144" : "105",
+         "UFBGA176" : "A15"
+      },
+      "af" : ["SWDIO"]
+   },
+   {
+      "name" : "VCAP_2",
+      "pins" : {
+         "LQFP176" : "125",
+         "LQFP144" : "106",
+         "UFBGA176" : "F13",
+         "WLCP90" : "B1",
+         "LQFP64" : "47",
+         "LQFP100" : "73"
+      },
+      "af" : []
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP100" : "74",
+         "WLCP90" : "E7",
+         "UFBGA176" : "F12",
+         "LQFP144" : "107",
+         "LQFP176" : "126"
+      },
+      "name" : "VSS"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "127",
+         "WLCP90" : "E6",
+         "LQFP64" : "48",
+         "LQFP100" : "75",
+         "LQFP144" : "108",
+         "UFBGA176" : "G13"
+      },
+      "name" : "VDD"
+   },
+   {
+      "af" : ["TIM8_CH1N","CAN1_TX"],
+      "pins" : {
+         "UFBGA176" : "E12",
+         "LQFP176" : "128"
+      },
+      "name" : "PH13"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "129",
+         "UFBGA176" : "E13"
+      },
+      "af" : ["TIM8_CH2N"],
+      "name" : "PH14"
+   },
+   {
+      "name" : "PH15",
+      "af" : ["TIM8_CH3N"],
+      "pins" : {
+         "LQFP176" : "130",
+         "UFBGA176" : "D13"
+      }
+   },
+   {
+      "af" : ["TIM5_CH4","SPI2_NSS","I2S2_WS"],
+      "pins" : {
+         "LQFP176" : "131",
+         "WLCP90" : "C3",
+         "UFBGA176" : "E14"
+      },
+      "name" : "PI0"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "132",
+         "UFBGA176" : "D14",
+         "WLCP90" : "B2"
+      },
+      "af" : ["SPI2_SCK","I2S2_CK"],
+      "name" : "PI1"
+   },
+   {
+      "name" : "PI2",
+      "pins" : {
+         "LQFP176" : "133",
+         "UFBGA176" : "C14"
+      },
+      "af" : ["TIM8_CH4","SPI2_MISO","I2S2ext_SD"]
+   },
+   {
+      "name" : "PI3",
+      "af" : ["TIM8_ETR","SPI2_MOSI","I2S2_SD"],
+      "pins" : {
+         "UFBGA176" : "C13",
+         "LQFP176" : "134"
+      }
+   },
+   {
+      "name" : "VSS",
+      "pins" : {
+         "UFBGA176" : "D9",
+         "LQFP176" : "135"
+      },
+      "af" : []
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "UFBGA176" : "C9",
+         "LQFP176" : "136"
+      },
+      "name" : "VDD"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "137",
+         "LQFP144" : "109",
+         "UFBGA176" : "A14",
+         "WLCP90" : "A2",
+         "LQFP100" : "76",
+         "LQFP64" : "49"
+      },
+      "af" : ["SWCLK"],
+      "name" : "PA14"
+   },
+   {
+      "name" : "PA15",
+      "af" : ["SPI3_NSS","I2S3_WS","TIM2_CH1_ETR","SPI1_NSS"],
+      "pins" : {
+         "LQFP176" : "138",
+         "LQFP144" : "110",
+         "UFBGA176" : "A13",
+         "WLCP90" : "B3",
+         "LQFP100" : "77",
+         "LQFP64" : "50"
+      }
+   },
+   {
+      "af" : ["SPI3_SCK","I2S3_CK","UART4_TX","SDIO_D2","USART3_TX"],
+      "pins" : {
+         "LQFP176" : "139",
+         "LQFP64" : "51",
+         "LQFP100" : "78",
+         "WLCP90" : "D5",
+         "UFBGA176" : "B14",
+         "LQFP144" : "111"
+      },
+      "name" : "PC10"
+   },
+   {
+      "af" : ["UART4_RX","SPI3_MISO","SDIO_D3","USART3_RX","I2S3ext_SD"],
+      "pins" : {
+         "LQFP64" : "52",
+         "LQFP100" : "79",
+         "WLCP90" : "C4",
+         "UFBGA176" : "B13",
+         "LQFP144" : "112",
+         "LQFP176" : "140"
+      },
+      "name" : "PC11"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "141",
+         "WLCP90" : "A3",
+         "LQFP100" : "80",
+         "LQFP64" : "53",
+         "LQFP144" : "113",
+         "UFBGA176" : "A12"
+      },
+      "af" : ["UART5_TX","SDIO_CK","SPI3_MOSI","I2S3_SD","USART3_CK"],
+      "name" : "PC12"
+   },
+   {
+      "name" : "PD0",
+      "af" : ["CAN1_RX"],
+      "pins" : {
+         "LQFP176" : "142",
+         "LQFP144" : "114",
+         "UFBGA176" : "B12",
+         "WLCP90" : "D6",
+         "LQFP100" : "81"
+      }
+   },
+   {
+      "af" : ["CAN1_TX"],
+      "pins" : {
+         "UFBGA176" : "C12",
+         "LQFP144" : "115",
+         "LQFP100" : "82",
+         "WLCP90" : "C5",
+         "LQFP176" : "143"
+      },
+      "name" : "PD1"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "144",
+         "LQFP144" : "116",
+         "UFBGA176" : "D12",
+         "WLCP90" : "B4",
+         "LQFP64" : "54",
+         "LQFP100" : "83"
+      },
+      "af" : ["TIM3_ETR","UART5_RX","SDIO_CMD"],
+      "name" : "PD2"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "D11",
+         "LQFP144" : "117",
+         "LQFP100" : "84",
+         "LQFP176" : "145"
+      },
+      "af" : ["USART2_CTS"],
+      "name" : "PD3"
+   },
+   {
+      "af" : ["USART2_RTS"],
+      "pins" : {
+         "LQFP176" : "146",
+         "LQFP100" : "85",
+         "WLCP90" : "A4",
+         "UFBGA176" : "D10",
+         "LQFP144" : "118"
+      },
+      "name" : "PD4"
+   },
+   {
+      "name" : "PD5",
+      "pins" : {
+         "LQFP176" : "147",
+         "WLCP90" : "C6",
+         "LQFP100" : "86",
+         "LQFP144" : "119",
+         "UFBGA176" : "C11"
+      },
+      "af" : ["USART2_TX"]
+   },
+   {
+      "pins" : {
+         "LQFP176" : "148",
+         "LQFP144" : "120",
+         "UFBGA176" : "D8"
+      },
+      "af" : [],
+      "name" : "VSS"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "149",
+         "LQFP144" : "121",
+         "UFBGA176" : "C8"
+      },
+      "name" : "VDD"
+   },
+   {
+      "af" : ["USART2_RX"],
+      "pins" : {
+         "LQFP144" : "122",
+         "UFBGA176" : "B11",
+         "WLCP90" : "B5",
+         "LQFP100" : "87",
+         "LQFP176" : "150"
+      },
+      "name" : "PD6"
+   },
+   {
+      "name" : "PD7",
+      "pins" : {
+         "LQFP176" : "151",
+         "LQFP100" : "88",
+         "WLCP90" : "A5",
+         "UFBGA176" : "A11",
+         "LQFP144" : "123"
+      },
+      "af" : ["USART2_CK"]
+   },
+   {
+      "af" : ["USART6_RX"],
+      "pins" : {
+         "UFBGA176" : "C10",
+         "LQFP144" : "124",
+         "LQFP176" : "152"
+      },
+      "name" : "PG9"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "125",
+         "UFBGA176" : "B10",
+         "LQFP176" : "153"
+      },
+      "name" : "PG10"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "154",
+         "UFBGA176" : "B9",
+         "LQFP144" : "126"
+      },
+      "name" : "PG11"
+   },
+   {
+      "name" : "PG12",
+      "pins" : {
+         "LQFP144" : "127",
+         "UFBGA176" : "B8",
+         "LQFP176" : "155"
+      },
+      "af" : ["USART6_RTS"]
+   },
+   {
+      "name" : "PG13",
+      "pins" : {
+         "LQFP144" : "128",
+         "UFBGA176" : "A8",
+         "LQFP176" : "156"
+      },
+      "af" : ["USART6_CTS"]
+   },
+   {
+      "pins" : {
+         "LQFP176" : "157",
+         "LQFP144" : "129",
+         "UFBGA176" : "A7"
+      },
+      "af" : ["USART6_TX"],
+      "name" : "PG14"
+   },
+   {
+      "name" : "VSS",
+      "pins" : {
+         "LQFP176" : "158",
+         "LQFP144" : "130",
+         "UFBGA176" : "D7",
+         "WLCP90" : "E8"
+      },
+      "af" : []
+   },
+   {
+      "name" : "VDD",
+      "af" : [],
+      "pins" : {
+         "LQFP176" : "159",
+         "WLCP90" : "F7",
+         "LQFP144" : "131",
+         "UFBGA176" : "C7"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "160",
+         "UFBGA176" : "B7",
+         "LQFP144" : "132"
+      },
+      "af" : ["USART6_CTS"],
+      "name" : "PG15"
+   },
+   {
+      "af" : ["SPI3_SCK","I2C3_CK","TIM2_CH2","SPI1_SCK"],
+      "pins" : {
+         "LQFP64" : "55",
+         "LQFP100" : "89",
+         "WLCP90" : "B6",
+         "UFBGA176" : "A10",
+         "LQFP144" : "133",
+         "LQFP176" : "161"
+      },
+      "name" : "PB3"
+   },
+   {
+      "af" : ["SPI3_MISO","TIM3_CH1","SPI1_MISO","I2S3ext_SD"],
+      "pins" : {
+         "LQFP144" : "134",
+         "UFBGA176" : "A9",
+         "WLCP90" : "A6",
+         "LQFP64" : "56",
+         "LQFP100" : "90",
+         "LQFP176" : "162"
+      },
+      "name" : "PB4"
+   },
+   {
+      "pins" : {
+         "LQFP100" : "91",
+         "LQFP64" : "57",
+         "WLCP90" : "D7",
+         "UFBGA176" : "A6",
+         "LQFP144" : "135",
+         "LQFP176" : "163"
+      },
+      "af" : ["I2C1_SMBA","CAN2_RX","SPI1_MOSI","SPI3_MOSI","I2S3_SD"],
+      "name" : "PB5"
+   },
+   {
+      "af" : ["I2C1_SCL","TIM4_CH1","CAN2_TX","USART1_TX"],
+      "pins" : {
+         "LQFP176" : "164",
+         "LQFP64" : "58",
+         "LQFP100" : "92",
+         "WLCP90" : "C7",
+         "UFBGA176" : "B6",
+         "LQFP144" : "136"
+      },
+      "name" : "PB6"
+   },
+   {
+      "af" : ["I2C1_SDA","USART1_RX","TIM4_CH2"],
+      "pins" : {
+         "LQFP176" : "165",
+         "LQFP100" : "93",
+         "LQFP64" : "59",
+         "WLCP90" : "B7",
+         "UFBGA176" : "B5",
+         "LQFP144" : "137"
+      },
+      "name" : "PB7"
+   },
+   {
+      "name" : "BOOT0",
+      "pins" : {
+         "WLCP90" : "A7",
+         "LQFP64" : "60",
+         "LQFP100" : "94",
+         "LQFP144" : "138",
+         "UFBGA176" : "D6",
+         "LQFP176" : "166"
+      },
+      "af" : []
+   },
+   {
+      "name" : "PB8",
+      "af" : ["TIM4_CH3","SDIO_D4","TIM10_CH1","I2c1_SCL","CAN1_RX"],
+      "pins" : {
+         "LQFP176" : "167",
+         "WLCP90" : "D8",
+         "LQFP100" : "95",
+         "LQFP64" : "61",
+         "LQFP144" : "139",
+         "UFBGA176" : "A5"
+      }
+   },
+   {
+      "pins" : {
+         "LQFP176" : "168",
+         "LQFP144" : "140",
+         "UFBGA176" : "B4",
+         "WLCP90" : "C8",
+         "LQFP100" : "96",
+         "LQFP64" : "62"
+      },
+      "af" : ["SPI2_NSS","I2S2_WS","TIM4_CH4","TIM11_CH1","SDIO_D5","I2C1_SDA","CA1_TX"],
+      "name" : "PB9"
+   },
+   {
+      "name" : "PE0",
+      "af" : ["TIM4_ETR"],
+      "pins" : {
+         "UFBGA176" : "A4",
+         "LQFP144" : "141",
+         "LQFP100" : "97",
+         "LQFP176" : "169"
+      }
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "A3",
+         "LQFP144" : "142",
+         "LQFP100" : "98",
+         "LQFP176" : "170"
+      },
+      "af" : [],
+      "name" : "PE1"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP64" : "63",
+         "UFBGA176" : "D5",
+         "LQFP100" : "99"
+      },
+      "name" : "VSS"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP144" : "143",
+         "UFBGA176" : "C6",
+         "WLCP90" : "A8",
+         "LQFP176" : "171"
+      },
+      "name" : "PDR_ON"
+   },
+   {
+      "af" : [],
+      "pins" : {
+         "LQFP100" : "100",
+         "LQFP144" : "144",
+         "UFBGA176" : "C5",
+         "WLCP90" : "A1",
+         "LQFP176" : "172"
+      },
+      "name" : "VDD"
+   },
+   {
+      "pins" : {
+         "UFBGA176" : "D4",
+         "LQFP176" : "173"
+      },
+      "af" : ["TIM8_BKIN"],
+      "name" : "PI4"
+   },
+   {
+      "pins" : {
+         "LQFP176" : "174",
+         "UFBGA176" : "C4"
+      },
+      "af" : ["TIM8_CH1"],
+      "name" : "PI5"
+   },
+   {
+      "name" : "PI6",
+      "pins" : {
+         "LQFP176" : "175",
+         "UFBGA176" : "C3"
+      },
+      "af" : ["TIM8_CH2"]
+   },
+   {
+      "af" : ["TIM8_CH3"],
+      "pins" : {
+         "LQFP176" : "176",
+         "UFBGA176" : "C2"
+      },
+      "name" : "PI7"
+   }
+]

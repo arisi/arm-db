@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%- @title %></title>
+  </head>
+  <body>
+    xxxx
+    <% @title=[1,2,3,4] %>
+    <% for x in @title : %>
+      ok! <%- x %>
+    <% end %>
+    <%- @title %>
+    <% if @links?.length : %>
+      <ul>
+        <% for link in @links : %>
+          <%- linkHelper link %>
+        <% end %>
+      </ul>
+    <% else : %>
+      <p>List is empty</p>
+    <% end %>
+  </body>
+</html>
