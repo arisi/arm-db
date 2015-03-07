@@ -12,11 +12,11 @@
   "STM32F0": {
     "id": "0x0",
     "flash_start": "0x08000000",
-    "flash_size": 131072,
+    "flash_size": "0x8000",
     "ram_start": "0x20000000",
     "ram_size": "0x1800",
     "flash_bsize": 256,
-    "serno_addr": "0x1ff80000",
+    "serno_addr": "0x1ffff7ac",
     "device_id_addr": "0x40015800"
   }
 }

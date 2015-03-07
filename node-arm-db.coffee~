@@ -1,7 +1,6 @@
 #!/usr/bin/env coffee
 #encoding: UTF-8
 
-
 isWin = /^win/.test(process.platform);
 isMac = /^darwin/.test(process.platform);
 isLin = /^linux/.test(process.platform);
